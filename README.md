@@ -1,1 +1,4 @@
 # geog650-gis-programming
+Justin Marlowe
+Course Developer: Tucker Hindle, GISP
+Course Description: Liberty University GEOG 650 - "This course considers the concepts of programming for geospatial data management and the automation of spatial analysis for research and production purposes. Quantitative geography relies on spatial data and analytical methods to understand patterns, relationships, and geographic context. GIS Programming and Automation equips the student to design and use algorithms that efficiently store, process, model, and visualize these data. The coding and data science skillset meets the need resulting from increasingly large datasets produced by modern geospatial technologies."
